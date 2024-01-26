@@ -1,0 +1,49 @@
+{
+  "name": "compo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@nextui-org/react": "^2.2.9",
+    "apexcharts": "^3.45.1",
+    "canvasjs-react-charts": "^1.0.5",
+    "firebase": "^10.7.1",
+    "framer-motion": "^10.16.16",
+    "react-apexcharts": "^1.4.1",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "webpack": "^5.89.0"
+  },
+  "description": "<p> In a world where health consciousness is on the rise, \"HealthHub\" emerges as a holistic solution to empower individuals in their journey towards optimal well-being. HealthHub is a multi-functional fitness tracker designed to cater to diverse health needs, including BMI tracking, personalized meal suggestions based on calorie intake, and an ovulation calculator for women. </p>",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
+}
